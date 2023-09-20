@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My cool site</title>
+</head>
+<body>
+    <header> 
+        GURSIMRAN SINGH
+        <nav>dasboard , contact us, about us will be go header</nav>
+      </header>
+      <main>
+        This is the main content of the holidays page, 
+        <article>This is the article on the page</article>
+
+        <aside>we take frequent holidays nearer to home for some winter sunshine</aside>
+        
+        <section>Focus on feelings about your trip,NOT WHAT YOU DID.</section>
+        <p>
+
+           This is coming holidays and college will closed below the following dates.
+        </p>
+        
+          <ol>
+            <li>Halloween - October 31st</li>
+            <li>Christmas - December 25th</li>
+            <li>New Year - January 1st</li>
+          </ol>
+
+
+        
+      </main>
+      <footer>Your page copyrights will go here</footer>

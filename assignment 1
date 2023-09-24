@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!--Document information-->
+        <meta charset="UTF-8">
+        <title>Gursimran Singh</title>
+</head>
+<body>
+    <header>
+     Gursimran Singh    
+  </header>
+    <main>
+        <article> <bold>ABOUT ME</bold></article>
+        <p>I am Gursimran Singh. I am from Punjab(India).I did my 12th in non medical stream from 
+        senior secondary school.Currently,i am studying course Intrective Media Design at Algonquin
+          college Northyork .My dream to have agood business.I am really intrested for business.</p>
+	   <p> Moreover,i would like to mention about my hobbies.Firstly i like to travel 
+          with my family and friends.I am extrovert person i like to talk with number of 
+          people as well as i listen to them also.I also like to draw portraits of peoples.I like to gain knowledge from others.
+          One of my dream is to fulfill all dreams of my parents after getting sucess in life.</p> 
+        <h>FRUIT</1Ii>
+        <o1>
+             <li>Mango</li>
+             <li>Kiwi</li>
+             <li>peaches</li>
+             <li>Dragon Fruit</li>
+        </ol>
+        <h2>grocery</h2>
+        </ul>
+             <li>vegetables</li>
+             <li>spices</li>
+        </ul>     
+        <dl>     
+             <dt>dairy</dt>
+             <dt>milk</dt>
+        
+             <dt>snacks</dt>
+             <dt>olive oil</dd>
+
+
+
+        </dl>
+
+
+
+        </ol>
+
+
+        </ol>
+        <q>try to make your life easy for coming gernation. i will but it will take time.</q>
+
+        <footer>copyright Gursimran Singh</footer>
+        </body>
+        </html>
